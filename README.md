@@ -18,6 +18,8 @@ I have tried different model but the result just seem barely acceptable. It stil
 
 #Resource
 https://github.com/tdrussell/IllustrationGAN
+
 https://github.com/jayleicn/animeGAN
+
 https://github.com/forcecore/Keras-GAN-Animeface-Character
 
