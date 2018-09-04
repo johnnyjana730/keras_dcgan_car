@@ -13,6 +13,6 @@ I have tried different model but the result just seem barely acceptable. It stil
 
 #Original Images
 
-<img src="https://github.com/johnnyjana730/keras_dcgan_car/blob/master/train_record/00001.jpg" height="300">
-<img src="https://github.com/johnnyjana730/keras_dcgan_car/blob/master/train_record/00002_test.jpg" height="300">
+<img src="https://github.com/johnnyjana730/keras_dcgan_car/blob/master/train_record/00001.jpg" height="200">
+<img src="https://github.com/johnnyjana730/keras_dcgan_car/blob/master/train_record/00002_test.jpg" height="200">
 
