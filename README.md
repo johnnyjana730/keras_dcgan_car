@@ -17,6 +17,7 @@ I have tried different model but the result just seem barely acceptable. It stil
 <img src="https://github.com/johnnyjana730/keras_dcgan_car/blob/master/train_record/00002_test.jpg" height="200">
 
 #Resource
+
 https://github.com/tdrussell/IllustrationGAN
 
 https://github.com/jayleicn/animeGAN
